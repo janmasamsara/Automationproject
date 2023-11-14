@@ -1,0 +1,5 @@
+1.Breakpoint-double click on the code
+2.start debug-Run menu>Debug>Debug as java application
+3.step over(F6)-execute current line and go to next line
+4.stop Resume(f8)-To finish the current execution
+5.to remove break point double click
